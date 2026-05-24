@@ -1,4 +1,0 @@
-
-git add requirements.txt
-git commit -m "Fix deployment dependencies"
-git push origin main
